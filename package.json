@@ -1,0 +1,20 @@
+{
+  "name": "create-ladder",
+  "version": "0.0.1",
+  "description": "A project to scaffold a book leveraging astro to build the final book and plugins to export it to various popular formats.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SgiobairOg/book-ladder-js.git"
+  },
+  "keywords": ["writing", "book", "epub", "astro"],
+  "author": "Aoibhe Wilson <aoi.nicuil@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/SgiobairOg/book-ladder-js/issues"
+  },
+  "homepage": "https://github.com/SgiobairOg/book-ladder-js#readme"
+}
